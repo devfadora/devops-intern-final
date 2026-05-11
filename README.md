@@ -35,4 +35,4 @@ This project demonstrates a full DevOps workflow using:
   nomad job run nomad/hello.nomad
 
   ## CI Badge
-  (Add GitHub Actions badge here)
+![CI](https://github.com/devfadora/devops-intern-final/actions/workflows/ci.yml/badge.svg)
